@@ -9,15 +9,15 @@ module FormsLab
       erb :root
     end
 
-    post '/pirates' do
-
-      # erb :pirates/show
-    end
-
-    get '/new' do
-
-      # erb :pirates/new
-    end
+    # post '/pirates' do
+    #
+    #   erb :pirates/show
+    # end
+    #
+    # get '/new' do
+    #
+    #   erb :pirates/new
+    # end
 
   end
 end
